@@ -2,14 +2,6 @@
 <!doctype html>
 <html dir="ltr" lang="en">
   <head>
-    <meta charset="utf-8">
-        visibility: hidden;
-        width: 100%;ab_page.js"></script>
-    <link rel="stylesheet" href="chroome://tndImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
