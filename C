@@ -1,22 +1,22 @@
-
+gdfgdfg
 <!doctype html>
 <html dir="ltr" lang="en">
   <head>
   <body>
     <iframeghjfgh id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
-</html>
+</html>gdfgdf
 
 <!doctype html>h
 <html dir="ltr" lang="en">sd
     <meta charset="utf-8">v
-    <style>dsdv
-      body {
-        background: #FFFFFF;
+    <style>dsdvdfdfg
+
+        background: #FFFFFF;df
         margin: 0;
       }
 
-      #backgroundImage {
+      #backgroundImage {gdfgdfg
         border: none;
         height: 100%;
         pointer-events: none;
