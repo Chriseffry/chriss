@@ -4,25 +4,18 @@ gdfgdfg
   <head>
   <body>
     <iframeghjfgh id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-</html>gdfgdf
-
-<!doctype html>h
-<html dir="ltr" lang="en">sd
-    <meta charset="utf-8">v
-    <style>dsdvdfdfg
-
+    <ntp-app></ntp-app>dgdfg
         background: #FFFFFF;df
-        margin: 0;
+        margin: 0;gdfgdfg
       }
-
+gdf
       #backgroundImage {gdfgdfg
-        border: none;
+        border: none;dfdgdf
         height: 100%;
         pointer-events: none;
-        position: fixed;
+        position: fixed;dfgfgdfgdfg
         top: 0;
-        visibility: hidden;
+        visibility: hidden;gfdfg
         width: 100%;
       }
 
