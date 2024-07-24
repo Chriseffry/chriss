@@ -3,13 +3,6 @@ gdfgdfg
 <html dir="ltr" lang="en">
   <head>
   <body>
-        height: 100%;
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
     <iframe id="backgroundImage" src=""></iframe>
     <meta charset="utf-8">
     <title>New Tab</title>
