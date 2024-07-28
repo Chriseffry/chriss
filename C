@@ -7,10 +7,7 @@ gdfgdfg
         pointer-events: none;
         width: 100%;fdgdf
       }gdf
-gd
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }gdfg
+gdAa937524007
   </head>dfg
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>dfgg"new_tab_page.js"></script>
