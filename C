@@ -1,14 +1,6 @@
 gdfgdfg
 <!doctype html>
 <html dir="ltr" lang="en">
-  <head>
-  <body>
-    <iframe id="backgroundImage" 
-        pointer-events: none;
-        width: 100%;fdgdf
-      }gdf
-gdAa937524007
-  </head>dfg
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>dfgg"new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
