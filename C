@@ -2,15 +2,6 @@ gdfgdfg
 <!doctype html>
 <html dir="ltr" lang="en">
 
-      #backgroundImage {
-
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
