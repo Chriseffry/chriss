@@ -2,11 +2,6 @@ gdfgdfg
       body {
 <!doctype html>
 <html dir="ltr" lang="en">
-<!doctype html>
-        visibility: hidden;
-        width: 100%;
-      }
-
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
