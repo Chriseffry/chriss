@@ -4,48 +4,23 @@
         position: fixed;
   </body>
 </html>
-
-<!doctype html>
-DFDGDFGDFGDFDFG
-<html dir="ltr" lang="en">F
-  <head>FD
-    <title>New Tab</title>
-    <style>GDFF
-        background: #FFFFFF;
-        margin: 0;G
-      }G
-
-      #backgroundImage {DF
-        height: 100%;DFG
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
+SFF
+        visibility: hidden;D
         width: 100%;
-      }
+      }DSF
 
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
+      [show-background-image] #backgrouFSDndImage {
+        visibility: visible;DFe.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
+    <link rel="stylesheet" href="shared_vars.css">SDFSD
   </body>
-</html>
-
-        background: #FFFFFF;
-        margin: 0;
-      }
-
+</html>FSDFSDFSDFSDF
+        background: #FFFFFF;D
+        margin: 0;D
       #backgroundImage {
         border: none;
-        height: 100%;
+        height: 100%;DFSDF
         pointer-events: none;
         position: fixed;
         top: 0;
