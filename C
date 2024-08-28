@@ -6,19 +6,17 @@
 </html>
 
 <!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
+DFDGDFGDFGDFDFG
+<html dir="ltr" lang="en">F
+  <head>FD
     <title>New Tab</title>
-    <style>
-      body {
+    <style>GDFF
         background: #FFFFFF;
-        margin: 0;
-      }
+        margin: 0;G
+      }G
 
-      #backgroundImage {
-        border: none;
-        height: 100%;
+      #backgroundImage {DF
+        height: 100%;DFG
         pointer-events: none;
         position: fixed;
         top: 0;
