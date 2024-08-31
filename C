@@ -3,16 +3,6 @@
         pointer-events: none;
         position: fixed;
   </body>
-</html>
-SFF
-        background: #FFFFFF;D
-        margin: 0;D
-      #backgroundImage {
-        border: none;
-        height: 100%;DFSDF
-        pointer-events: none;
-        position: fixed;
-        top: 0;
         visibility: hidden;iljolidfxsggjljgyhfgtdf
         width: 100%;
       }
