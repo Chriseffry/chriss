@@ -1,13 +1,4 @@
-SEFSEF>
-      }EF
-EFSEF
-      [show-background-image] #backgroundImage {
-        visibility: visible;F
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""SF
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome:/F/resources/css/text_defaults_md.css">
+ef="chrome:/F/resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
