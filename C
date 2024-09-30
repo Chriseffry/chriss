@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="shared_vars.css">
   </body>
 </html>
-
+JM
       #backgroundImage {
         border: none;
         height: 100%;
